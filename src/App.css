@@ -1,0 +1,13 @@
+.starComponent{
+  background-image: url("./static/starComponent.png");
+  background-size: contain;  
+}
+.formTop{
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.formBottom{
+  border-end-start-radius: 10px;
+  border-end-end-radius: 10px;
+}
